@@ -45,15 +45,15 @@ let cards = [
     },
     {
         background:
-            "//external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapershome.com%2Fimages%2Fpages%2Fpic_h%2F22685.jpg&f=1&nofb=1",
-        title: "TENET",
+            "//external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetwallpapers.com%2Fwallpaper%2Ffull%2F9%2F6%2F8%2F126147.jpg&f=1&nofb=1",
+        title: "Star Wars: A New Hope",
         description:
             "Watch this incredible film made by some incredible people!"
     },
     {
         background:
-            "//external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.hdwallpapers.in%2Fdownload%2Fskyfall_2012_movie-1920x1080.jpg&f=1&nofb=1",
-        title: "Skyfall",
+            "//external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapertag.com%2Fwallpaper%2Ffull%2F2%2F6%2F8%2F123320-lord-of-the-rings-background-1920x1080-picture.jpg&f=1&nofb=1",
+        title: "Lord of the Rings",
         description:
             "Watch this incredible film made by some incredible people!"
     },
